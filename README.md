@@ -1,1 +1,1 @@
-# gutenberg-recent-posts
+# Gutenberg Recent Posts
