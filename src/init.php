@@ -109,7 +109,7 @@ function recent_posts_block($attributes){
 					if(has_post_thumbnail()){
 						echo get_the_post_thumbnail(get_the_ID(), $attributes['imagesize']);
 					}
-					echo ($attributes['postcontent']) ? get_the_excerpt() : '';
+					echo ($attributes['postcontent']) ? '<p>'.get_the_excerpt().'</p>' : '';
 					echo ($attributes['postdate']) ? '<a href="'.get_the_permalink( ).'"><span>'.get_the_date('F j, Y',get_the_ID()).'</span></a>' : '';
 					?>
 				</div>
