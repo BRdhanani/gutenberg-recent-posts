@@ -1,5 +1,8 @@
 # Gutenberg Recent Posts
 
+## Plugin URL
+[Recent Posts block](https://wordpress.org/plugins/recent-posts-block/)
+
 ## Description
 This plugin adds a custom Gutenberg block named **recent posts** in the Gutenberg editor of your WordPress dashboard using which you can display recent posts including custom post types.
 
@@ -18,9 +21,16 @@ This plugin adds a custom Gutenberg block named **recent posts** in the Gutenber
   
   OR
   
-  1. Go to your plugin directory.
+  1. Navigate to the Plugins > Add new in your WordPress dashboard.
 
   2. Open terminal and Clone this repo in wp-content/plugins directory by running following command git clone https://github.com/BRdhanani/gutenberg-recent-posts.git.
+  
+  OR
+  
+  1. Go to your plugin directory.
+
+  2. search for recent posts block.
+  
   
   3. Navigate to the Plugins screen in your WordPress dashboard.
 
