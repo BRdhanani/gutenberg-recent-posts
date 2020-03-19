@@ -7,7 +7,7 @@
 This plugin adds a custom Gutenberg block named **recent posts** in the Gutenberg editor of your WordPress dashboard using which you can display recent posts including custom post types.
 
 ## Installation 🔧
-  1. Download the zip file from github. Unzip the plugin.
+  1. Download the zip file from Github. Unzip the plugin.
 
   2. Navigate to the Plugins > Add new screen in your WordPress dashboard.
 
@@ -29,7 +29,7 @@ This plugin adds a custom Gutenberg block named **recent posts** in the Gutenber
   
   1. Go to your plugin directory.
 
-  2. search for recent posts block.
+  2. Search for recent posts block.
   
   
   3. Navigate to the Plugins screen in your WordPress dashboard.
@@ -55,10 +55,11 @@ This plugin adds a custom Gutenberg block named **recent posts** in the Gutenber
    2. npm run build : will use the src/blocks.js as entry point and output it to dist/blocks.build.js for production
    
    ## How to use ?
-   1. Go to WordPress Dashboard > Posts/Pages > Add New > Add block ( + icon ) > widgets > Recent Posts
-   2. Select post type from dropdown for which you want to get recent posts.
-   3. Select settings of ordering, image size etc. from sidebar.
-   4. That's it!! publish the page and go to the front end.
+   1. Go to WordPress Dashboard > Posts/Pages > Add New > Add block (+ icon) > widgets > Recent Posts
+   2. Select a post type from dropdown to which you wish to add Recent Posts block.
+   3. You can manage ordering, image size, post meta, etc. from the sidebar parameter settings.
+   4. That's it!! publish the page and view the same from the front end.
+
    
    ![Edit Page ‹ gutenberg-demo — WordPress](https://user-images.githubusercontent.com/46484569/75977295-167bb200-5f02-11ea-8daf-fced1d90dc8c.png)
 ![Edit Page ‹ gutenberg-demo — WordPress (1)](https://user-images.githubusercontent.com/46484569/75977299-18457580-5f02-11ea-8d04-dacfc306cdd8.png)
