@@ -69,4 +69,4 @@ This plugin adds a custom Gutenberg block named **recent posts** in the Gutenber
    2. [How to create custom Gutenberg block as a begginer](https://medium.com/@brijeshdhanani/steps-to-create-custom-gutenberg-block-as-a-beginner-62e13e1d5e1c)
    
    ## credit
-  [Ankita Tanti](https://github.com/AnkitaTanti)
+  🙌 [Ankita Tanti](https://github.com/AnkitaTanti)
