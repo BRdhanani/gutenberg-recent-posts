@@ -67,6 +67,7 @@ This plugin adds a custom Gutenberg block named **recent posts** in the Gutenber
    ## Useful Blogs:
    1. [Create Single Page Application With React js and WordPress REST API](http://wholeblogs.com/how-to-create-a-single-page-applicationspa-with-react-js-and-wordpress-rest-api/)
    2. [How to create custom Gutenberg block as a begginer](https://medium.com/@brijeshdhanani/steps-to-create-custom-gutenberg-block-as-a-beginner-62e13e1d5e1c)
+   3. [Create custom Gutenberg block using ACF](https://medium.com/@brijeshdhanani/create-custom-gutenberg-block-using-acf-7305176801ec)
    
    ## credit
   🙌 [Ankita Tanti](https://github.com/AnkitaTanti)
